@@ -73,13 +73,6 @@ Play Store.
 | Linux | [wonnderaylinux](https://github.com/TheWonnder/wonnderaylinux) | Пакет `.pacman` и `.tar.gz` |
 | iOS | [wonnderayios](https://github.com/TheWonnder/wonnderayios) | `.deb` для устройства с джейлбрейком |
 
-## Правило приложения
-
-**Ничего не имитировать.** «Подключено» загорается только когда ядро живо
-**и** туннель принят системой. Пинг показывает измеренное значение либо честный
-прочерк — никаких правдоподобных чисел вместо ответа. Счётчики трафика читаются
-из ядра и при его молчании остаются нулями.
-
 ## Поддержка
 
 Telegram — [@neowixtg](https://t.me/neowixtg)
